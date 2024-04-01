@@ -55,4 +55,4 @@ client.on('message', async message => {
     }
 });
 
-client.login('e6b876d03e88814c499c95a4db19e8014923f37c789a24ca65c32c9132a6d7a8');
+client.login('NTIxNzgzOTA2NDUwNjY5NTY4.GpECZH.JXY4Iuijyywayq6o7MpoCBJ9g4SncFbarKpWXs');
